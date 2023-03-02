@@ -48,5 +48,5 @@ With the code tested and approved in the test workbook it was time to run it on 
 
 ![alt text](https://github.com/beccasolomon22/VBA-challenge/blob/main/Multiple_year_stock_data%20-%20Excel%203_2_2023%201_30_44%20PM.png)
 
-###Additions
+### Additions
 For ease of use, I added a button on the first sheet that will run the code on all sheets. I also added a separate button on each sheet that allows the user to run the code for just that sheet. This way The User does not need to open Visual Basic in order to get results.
