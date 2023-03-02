@@ -35,10 +35,16 @@ The main issue I came to was towards the end of the coding when I was transition
 With the code tested and approved in the test workbook it was time to run it on the real thing. It took quite a bit of time for the code to run, but everything went smoothly.
 
 #### The first rows of each sheet in the Workbook
-1. 
+
+2018:
+
 ![alt text](https://github.com/beccasolomon22/VBA-challenge/blob/main/Multiple_year_stock_data%20-%20Excel%203_2_2023%201_30_27%20PM.png)
-2. 
+
+2019:
+
 ![alt text](https://github.com/beccasolomon22/VBA-challenge/blob/main/Multiple_year_stock_data%20-%20Excel%203_2_2023%201_30_35%20PM.png)
-3.
+
+2020:
+
 ![alt text](https://github.com/beccasolomon22/VBA-challenge/blob/main/Multiple_year_stock_data%20-%20Excel%203_2_2023%201_30_44%20PM.png)
 
